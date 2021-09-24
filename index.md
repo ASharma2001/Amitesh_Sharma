@@ -16,9 +16,6 @@ Before working on any code, make sure to do the following:
     git pull <origin> <main_branch>
 ```
 
-#page
-Visit my personal webpage [Amitesh Sharma](https://amiteshksharma.github.io/)
-
 [Secret Page](./other.md)
 
 ![Mt.Whitney](./whitney.jpeg)
@@ -45,3 +42,7 @@ Visit my personal webpage [Amitesh Sharma](https://amiteshksharma.github.io/)
 2. Develop proper studying habits
     - Develop proper study groups
       - Develop a work pattern
+  
+
+# page
+Visit my personal webpage [Amitesh Sharma](https://amiteshksharma.github.io/)
